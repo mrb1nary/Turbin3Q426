@@ -12,12 +12,6 @@
     DataV2Args,
   } from "@metaplex-foundation/mpl-token-metadata";
   import bs58 from "bs58";
-  import {
-    CollectionArgs,
-    CollectionDetailsArgs,
-    CreatorArgs,
-    UsesArgs
-  } from "@metaplex-foundation/mpl-token-metadata/dist/src/generated/types";
 
   //paste your mint address got from spl_init.ts
   const mint = publicKey("6kUpNZtZfA9mpDuxr9uxAqxiu2SRnZ37PioUukfLJrib");
