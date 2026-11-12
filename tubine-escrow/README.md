@@ -213,3 +213,6 @@ Adjust the account lists to match your generated IDL. Anchor resolves PDAs and a
 - This program has not been audited. Do not use it with real funds without a thorough review.
 
 ---
+
+<img width="997" height="436" alt="Screenshot_20261112_105424" src="https://github.com/user-attachments/assets/cebf368e-5355-4cfb-bc9b-42f2dfdba101" />
+
